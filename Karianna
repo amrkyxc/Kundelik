@@ -1,0 +1,811 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+    <meta name="google" value="notranslate" />
+    <meta charset="utf-8" />
+    <title>&#x414;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A; - Kundelik.kz</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="Удобная и безопасная среда общения школьников, учителей и родителей. Домашние задания, расписание, оценки - всё в одном месте." />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+    
+    
+
+    
+    <link rel="icon" href="https://static.kundelik.kz/img/icons/favicon_Kz.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="https://static.kundelik.kz/img/icons/favicon_Kz.ico" type="image/x-icon" />
+    
+
+    <link rel="stylesheet" href="https://static.kundelik.kz/css/razor_pages_blocks.css?v=6605968f" media="all" type="text/css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/assets/styles/vendors/emojione/emojione.css?v=f3836152" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/css/old_sites_blocks.css?v=9eb3da31" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/css/screen_addition.css?v=1303fb3b" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/css/screen.css?v=eacc3ce1" /><link rel="stylesheet" type="text/css" media="print" href="https://static.kundelik.kz/css/print.css?v=7b825809" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/client/notifications.css?v=1f469960" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/client/discussions.css?v=1ffb77aa" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/client/attachments.css?v=cfcdfdae" /><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/css/projects/screen.dnevnik.ru.css?v=fca83d8f" /><!--[if IE]><link rel="stylesheet" type="text/css" media="all" href="https://static.kundelik.kz/css/projects/ie.dnevnik.ru.css?v=b74e0b48" /><![endif]-->
+    
+<script type="text/javascript">var dnevnik = {"urls":{"domain":"kundelik.kz","taskStateUrl":"https://kundelik.kz/TaskStateHandler","moderate":"https://kundelik.kz/v2/soc/moderation/abuse","whiteList":["dnevnik.ru","mosreg.ru","microsoft.com","lego.com","surveymonkey.ru","surveymonkey.com","gosuslugi.ru","adfox.ru","facebook.com","twitter.com","instagram.com","vk.com","apple.com","google.com","dnevnik.ru","youtube.com","youtu.be","research.net","csdnevnik.ru","globallab.org","yaklass.ru","foxford.ru","sberbank.ru","magnit-info.ru","letovo.ru","office.com","sharepoint.com","onenote.com","office365.com","magnitznaniy.ru","magnit.ru","mail.ru","instagram.com","gismeteo.ru","fotostrana.ru","twitter.com","livejournal.com","lenta.ru","kinopoisk.ru","ria.ru","yadi.sk","booking.com","rbc.ru","mosregtest.ru","app.focusednow.io","focusednow.io","focusedlink.com","focused.kz","edu.kz","portal.kundelik.kz/zoom","lessons.kundelik.kz","portal.kundelik.kz","expert.kundelik.kz","cert.kundelik.kz","lessons.kundelik.kz","mektepmenu.kz","kundelik.kz","bonus.kundelik.kz","docs.google.com","docs.google.com/forms","Kundelik.kz","kundelik.analyticsapp","business.documentolog","documentolog.kz","forms.gle","api.whatsapp.com","whatsapp.com","web.boboapp","https://www.znanie.info/","znanie.info","kundelik.zendesk.com","zendesk.com","izicourse.kz","halykbank.kz","https://halykbank.kz","halykbank.kz","https://halykbank.kz","jusan.kz","https://jusan.kz","ekitap.kz","grant.daryn.online","daryn.online","https://grant.daryn.online","business.documentolog.com","tiktok.com","https://izicourse.kz/","https://t.me/","t.me","idaryn.kz","https://idaryn.kz","https://dmuk.edu.kz","dmuk.edu.kz","https://2gis.kz","2gis.kz","https://wa.me","wa.me","https://wa.me/message/","https://wa.me/","https://ads.adfox.ru","ads.adfox.ru","https://darmen.app/","darmen.app","https://plus.yandex.ru","plus.yandex.ru","https://plus.yandex.ru/gift","plus.yandex.ru/gift","https://plus.yandex.ru/gift","plus.yandex.ru/gift","yandex.ru","iutest.kz","ekitap.kz","testter.kz","https://intertop.kz/ru-kz/","intertop.kz/ru-kz/","intertop.kz","https://clck.ru/39CwGu","https://clck.ru","clck.ru","damubala.kz","https://iutest.kz/","iutest.kz","https://lessons.kundelik.kz/courses","https://lessons.kundelik.kz","lessons.kundelik.kz/courses","lessons.kundelik.kz","https://www.kinopark.kz","www.kinopark.kz","kinopark.kz","www.troya.kz","troya.kz","https://legospace.kz","legospace.kz","avatariya-graduation.kz","https://avatariya-graduation.kz","https://avatariya-graduation.kz/kz","avatariya-graduation.kz/kz"],"userCounters":"https://kundelik.kz/counters","emailSettings":"https://kundelik.kz/v2/user/settings?view=email","smilesSpriteUrl":"https://static.kundelik.kz/images/sprites/emojione.sprites.svg","tinyMceBaseUrl":"https://static.kundelik.kz/assets/scripts/vendors/tinymce","gaAutoLinkUrls":null,"adblockDummyUrl":"https://static.kundelik.kz/images/banners/adblockDummies/kzDummy.jpg"},"settings":{"googleAnalytics":{"defaultId":"UA-76524281-14","appsId":"UA-76524281-2","adId":"UA-76524281-10","contactId":"UA-76524281-1","eventsId":"UA-76524281-6","groupsId":"UA-76524281-5","loginId":"UA-76524281-11","messengerId":"UA-76524281-3","networksId":"UA-76524281-7","childrenId":"UA-76524281-12","peopleId":"UA-76524281-4","schoolsId":"UA-76524281-8","wikiId":"UA-76524281-9","mainId":"UA-76524281-13","appSubscriptionId":"","limitedCounterId":"UA-106329441-1","limitedCounterSampleRate":1},"yandexMetrikaIds":["36220965"],"yandexMetrikaСlickmapEnabled":false,"enableAdFoxZeroPixel":true,"yandexMetrikaId":"36220965","environmentPrefix":"Kz","yandexMetrikaWebvisorEnabled":false},"fileUploadSettings":{"stateUrl":"https://content.kundelik.kz/gettaskstatus","resultUrl":"https://content.kundelik.kz/getresult","deleteFileUrl":"https://content.kundelik.kz/delete","deleteFolderUrl":"https://content.kundelik.kz/deletefolder","defaultFileSizeLimit":"2147483648"},"user":{"preferableLanguage":"ru-RU","suitableCultures":["ru-RU","kk-KZ"],"id":"1000002636291","sex":"Female","age":41,"emailHash":"b822dd93c2e0c0ae16074789b41c3e81d6a423c635622527aa6b24908ea9bca9","group":51,"role":"EduParent","commonRole":"parent","schools":[{"id":"1000001000774","regionName":"Алматы"},{"id":"1000009846887","regionName":"Алматы"}],"children":[{"age":16,"sex":"Female"},{"age":10,"sex":"Female"}],"experimentPRTopic":"None"},"auth":{"isAuthenticated":true,"updateInterval":600000,"loginUrl":"https://login.kundelik.kz/auth","masterLoginUrl":null},"visitParams":{"__RedesignAbGroup2":"groupA"},"localizationSchoolType":""};</script>
+
+    <script type="text/javascript">
+        function onRequreLoaded() { 
+            require.config({ 
+                baseUrl: "https://static.kundelik.kz/assets/scripts/modules", 
+                urlArgs: "v=0655ae86" 
+            });
+        }
+    </script>
+            <script type="text/javascript" src="https://static.kundelik.kz/assets/scripts/modules/libs.min.5ea0fa50.js?v=5ea0fa50"></script>
+    <script type="text/javascript">var dnevnik = {"urls":{"domain":"kundelik.kz","taskStateUrl":"https://kundelik.kz/TaskStateHandler","moderate":"https://kundelik.kz/v2/soc/moderation/abuse","whiteList":["dnevnik.ru","mosreg.ru","microsoft.com","lego.com","surveymonkey.ru","surveymonkey.com","gosuslugi.ru","adfox.ru","facebook.com","twitter.com","instagram.com","vk.com","apple.com","google.com","dnevnik.ru","youtube.com","youtu.be","research.net","csdnevnik.ru","globallab.org","yaklass.ru","foxford.ru","sberbank.ru","magnit-info.ru","letovo.ru","office.com","sharepoint.com","onenote.com","office365.com","magnitznaniy.ru","magnit.ru","mail.ru","instagram.com","gismeteo.ru","fotostrana.ru","twitter.com","livejournal.com","lenta.ru","kinopoisk.ru","ria.ru","yadi.sk","booking.com","rbc.ru","mosregtest.ru","app.focusednow.io","focusednow.io","focusedlink.com","focused.kz","edu.kz","portal.kundelik.kz/zoom","lessons.kundelik.kz","portal.kundelik.kz","expert.kundelik.kz","cert.kundelik.kz","lessons.kundelik.kz","mektepmenu.kz","kundelik.kz","bonus.kundelik.kz","docs.google.com","docs.google.com/forms","Kundelik.kz","kundelik.analyticsapp","business.documentolog","documentolog.kz","forms.gle","api.whatsapp.com","whatsapp.com","web.boboapp","https://www.znanie.info/","znanie.info","kundelik.zendesk.com","zendesk.com","izicourse.kz","halykbank.kz","https://halykbank.kz","halykbank.kz","https://halykbank.kz","jusan.kz","https://jusan.kz","ekitap.kz","grant.daryn.online","daryn.online","https://grant.daryn.online","business.documentolog.com","tiktok.com","https://izicourse.kz/","https://t.me/","t.me","idaryn.kz","https://idaryn.kz","https://dmuk.edu.kz","dmuk.edu.kz","https://2gis.kz","2gis.kz","https://wa.me","wa.me","https://wa.me/message/","https://wa.me/","https://ads.adfox.ru","ads.adfox.ru","https://darmen.app/","darmen.app","https://plus.yandex.ru","plus.yandex.ru","https://plus.yandex.ru/gift","plus.yandex.ru/gift","https://plus.yandex.ru/gift","plus.yandex.ru/gift","yandex.ru","iutest.kz","ekitap.kz","testter.kz","https://intertop.kz/ru-kz/","intertop.kz/ru-kz/","intertop.kz","https://clck.ru/39CwGu","https://clck.ru","clck.ru","damubala.kz","https://iutest.kz/","iutest.kz","https://lessons.kundelik.kz/courses","https://lessons.kundelik.kz","lessons.kundelik.kz/courses","lessons.kundelik.kz","https://www.kinopark.kz","www.kinopark.kz","kinopark.kz","www.troya.kz","troya.kz","https://legospace.kz","legospace.kz","avatariya-graduation.kz","https://avatariya-graduation.kz","https://avatariya-graduation.kz/kz","avatariya-graduation.kz/kz"],"userCounters":"https://kundelik.kz/counters","emailSettings":"https://kundelik.kz/v2/user/settings?view=email","smilesSpriteUrl":"https://static.kundelik.kz/images/sprites/emojione.sprites.svg","tinyMceBaseUrl":"https://static.kundelik.kz/assets/scripts/vendors/tinymce","gaAutoLinkUrls":null,"adblockDummyUrl":"https://static.kundelik.kz/images/banners/adblockDummies/kzDummy.jpg"},"settings":{"googleAnalytics":{"defaultId":"UA-76524281-14","appsId":"UA-76524281-2","adId":"UA-76524281-10","contactId":"UA-76524281-1","eventsId":"UA-76524281-6","groupsId":"UA-76524281-5","loginId":"UA-76524281-11","messengerId":"UA-76524281-3","networksId":"UA-76524281-7","childrenId":"UA-76524281-12","peopleId":"UA-76524281-4","schoolsId":"UA-76524281-8","wikiId":"UA-76524281-9","mainId":"UA-76524281-13","appSubscriptionId":"","limitedCounterId":"UA-106329441-1","limitedCounterSampleRate":1},"yandexMetrikaIds":["36220965"],"yandexMetrikaСlickmapEnabled":false,"enableAdFoxZeroPixel":true,"yandexMetrikaId":"36220965","environmentPrefix":"Kz","yandexMetrikaWebvisorEnabled":false},"fileUploadSettings":{"stateUrl":"https://content.kundelik.kz/gettaskstatus","resultUrl":"https://content.kundelik.kz/getresult","deleteFileUrl":"https://content.kundelik.kz/delete","deleteFolderUrl":"https://content.kundelik.kz/deletefolder","defaultFileSizeLimit":"2147483648"},"user":{"preferableLanguage":"ru-RU","suitableCultures":["ru-RU","kk-KZ"],"id":"1000002636291","sex":"Female","age":41,"emailHash":"b822dd93c2e0c0ae16074789b41c3e81d6a423c635622527aa6b24908ea9bca9","group":51,"role":"EduParent","commonRole":"parent","schools":[{"id":"1000001000774","regionName":"Алматы"},{"id":"1000009846887","regionName":"Алматы"}],"children":[{"age":16,"sex":"Female"},{"age":10,"sex":"Female"}],"experimentPRTopic":"None"},"auth":{"isAuthenticated":true,"updateInterval":600000,"loginUrl":"https://login.kundelik.kz/auth","masterLoginUrl":null},"visitParams":{"__RedesignAbGroup2":"groupA"},"localizationSchoolType":""};</script>
+                <script type="text/javascript" src="https://static.kundelik.kz/assets/scripts/modules/main.min.c62f545c.js?v=c62f545c" data-main="https://static.kundelik.kz/assets/scripts/modules/main.min.c62f545c.js?v=c62f545c"></script>
+                <script type="text/javascript" src="https://static.kundelik.kz/assets/scripts/vendors/requirejs/require-2.1.6.js?v=ef8e5d03"></script>
+    <script type="text/javascript" src="https://static.kundelik.kz/javascripts/local/ru.js?v=0320e479"></script>
+    <script type="text/javascript">
+        require.config({
+            baseUrl: "https://static.kundelik.kz/assets/scripts/modules",
+            urlArgs: "v=0655ae86"
+        });
+    </script>
+    <script type="text/javascript" src="https://static.kundelik.kz/blocks/old_sites_blocks.js?v=acc6442f"></script>
+    <script src="https://static.kundelik.kz/client/react.vendor.bundle.js?v=3a3f4414" type="text/javascript"></script>
+
+    
+        <script async=async src="https://yastatic.net/pcode/adfox/header-bidding.js"></script>
+    <script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+    <script src="https://static.kundelik.kz/client/localization/kz.ru-RU.js?v=fdf12db5" type="text/javascript"></script>
+
+        <script data-ad-client="ca-pub-5790986896570693" async=async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body>
+<div class="ec21c253f325458b9c9dc71824c3e1e9 asyncBackgroundBanner"><div style="display:none;">&lt;div class=&quot;bannerBackground&quot;&gt;&lt;!-- Yandex.RTB --&gt;
+&lt;script&gt;window.yaContextCb=window.yaContextCb||[]&lt;/script&gt;
+&lt;script src=&quot;https://yandex.ru/ads/system/context.js&quot; async&gt;&lt;/script&gt;
+&lt;!-- Yandex.RTB R-A-4756232-4 --&gt;
+&lt;div style=&quot;max-width:970px; margin: 0 auto;&quot;&gt;
+	&lt;div id=&quot;yandex_rtb_R-A-4756232-4&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+window.yaContextCb.push(()=&gt;{
+	Ya.Context.AdvManager.render({
+		&quot;blockId&quot;: &quot;R-A-4756232-4&quot;,
+		&quot;renderTo&quot;: &quot;yandex_rtb_R-A-4756232-4&quot;
+	})
+})
+&lt;/script&gt;
+&lt;/div&gt;&lt;/div&gt;</div></div><script>$(document).ready(function () {let container=$(".ec21c253f325458b9c9dc71824c3e1e9");if(container.css("display")!=="none"){container.html($(".ec21c253f325458b9c9dc71824c3e1e9 > div").text());} });</script>    <div class="b366e3373ba741daa31741455540de2c asyncRichMediaBanner"><div style="display:none;">&lt;!--В &lt;head&gt; сайта один раз добавьте код загрузчика--&gt;
+&lt;script&gt;window.yaContextCb = window.yaContextCb || []&lt;/script&gt;
+&lt;script src=&quot;https://yandex.ru/ads/system/context.js&quot; async&gt;&lt;/script&gt;
+
+&lt;!--AdFox START--&gt;
+&lt;!--tds.media2016--&gt;
+&lt;!--Площадка: [Site] | Kundelik 2.0 / [Site] | Kundelik 2.0 / [Kundelik 2.0] - Rich Media--&gt;
+&lt;!--Категория: &lt;не задана&gt;--&gt;
+&lt;!--Тип баннера: [Kundelik 2.0] - Rich Media--&gt;
+&lt;div id=&quot;adfox_163159691088457509&quot;&gt;
+&lt;/div&gt;
+&lt;script&gt;
+    window.yaContextCb.push(()=&gt;{
+        Ya.adfoxCode.create({
+            ownerId: 264109,
+        containerId: &#39;adfox_163159691088457509&#39;,
+            params: {
+                p1: &#39;ckcyp&#39;,
+            p2: &#39;guqz&#39;,
+            puid1: &#39;41&#39;,
+            puid2: &#39;F&#39;,
+            puid3: &#39;PARENT&#39;,
+            puid4: &#39;154&#39;,
+            puid5: &#39;224:132&#39;,
+            puid6: &#39;16:10&#39;,
+            puid7: &#39;02:2565&#39;,
+            puid8: &#39;F:F&#39;,
+            puid9: &#39;Gimnasium&#39;,
+            puid10: &#39;Gimnasium:AdditionalEducation:Gimnasium:AdditionalEducation&#39;,
+            puid11: &#39;N&#39;,
+            puid12: &#39;P:P&#39;,
+            puid13: &#39;N&#39;,
+            puid14: &#39;N:N&#39;,
+            puid15: &#39;N&#39;,
+            puid16: &#39;N&#39;,
+            puid17: &#39;&#39;,
+            puid18: &#39;&#39;,
+            puid19: &#39;51G&#39;,
+            puid20: &#39;N&#39;,
+            puid21: &#39;4K:10K:255K&#39;,
+            puid22: &#39;ru-RU&#39;,
+            puid23: &#39;1000002636291&#39;,
+            puid24: &#39;elite&#39;,
+            puid25: &#39;N&#39;,
+            puid26: &#39;&#39;
+            }
+        })
+    })
+&lt;/script&gt;</div></div><script>$(document).ready(function () {let container=$(".b366e3373ba741daa31741455540de2c");if(container.css("display")!=="none"){container.html($(".b366e3373ba741daa31741455540de2c > div").text());} });</script>
+    
+    
+    
+
+    
+
+    
+    <div class="page-header ">
+        <div class="page-header__panel-wrapper">
+            <div class="page-header__panel">
+                <div class="page-header__panel-container">
+                    <a href="https://portal.kundelik.kz/" title="&#x41D;&#x430; &#x433;&#x43B;&#x430;&#x432;&#x43D;&#x443;&#x44E; &#x441;&#x442;&#x440;&#x430;&#x43D;&#x438;&#x446;&#x443; Kundelik.kz" class="header-logotype header-logotype_kz"></a>
+                    
+<div class="user-counters">
+
+<a class="button-with-counter button-with-counter_message button-with-counter_first    trackable ya-metrika-trackable" data-category="&#x428;&#x430;&#x43F;&#x43A;&#x430;" data-action="&#x41B;&#x421;" data-target="messenger">
+    <svg xmlns="http://www.w3.org/2000/svg" width="23" height="22" viewBox="0 0 23 22">
+        <path fill="#AAB6C2" fill-rule="evenodd" d="M7.293.25c2.873 0 5.368 1.915 6.213 4.66l.07.244-1.449.387C11.532 3.313 9.562 1.75 7.293 1.75c-2.77 0-5.019 2.31-5.019 5.176 0 1.05.3 2.048.853 2.89a.75.75 0 0 1 .113.531c-.099.618-.34 1.192-.694 1.68l-.055.068.052-.001a1.73 1.73 0 0 0 1.038-.484l.117-.124a.75.75 0 0 1 .97-.146c.313.198.65.36 1.005.484l.27.086-.415 1.442a6.509 6.509 0 0 1-.861-.315L4.38 12.9l-.133.102a3.217 3.217 0 0 1-1.669.593l-.204.007c-.648 0-1.267-.19-1.792-.542a.75.75 0 0 1 .04-1.271 2.352 2.352 0 0 0 1.055-1.331l.025-.094-.135-.24a6.758 6.758 0 0 1-.786-2.89l-.007-.308C.774 3.24 3.686.25 7.293.25zm14.345 13.802c0 1.218-.313 2.391-.897 3.425l-.134.225.024.081c.178.564.549 1.051 1.048 1.378l.153.093a.75.75 0 0 1 .037 1.286 3.564 3.564 0 0 1-1.92.559c-.81 0-1.576-.27-2.19-.748l-.021-.017-.065.035a7.148 7.148 0 0 1-2.83.722l-.333.008c-3.935 0-7.128-3.152-7.128-7.047 0-3.894 3.193-7.046 7.128-7.046s7.128 3.152 7.128 7.046zm-12.756 0c0 3.062 2.517 5.547 5.628 5.547 1.06 0 2.073-.288 2.952-.824a.75.75 0 0 1 .951.142c.383.43.936.682 1.532.681l-.053-.062a4.056 4.056 0 0 1-.78-1.625l-.044-.227a.75.75 0 0 1 .12-.547c.616-.902.95-1.968.95-3.085 0-3.06-2.517-5.546-5.628-5.546-3.11 0-5.628 2.485-5.628 5.546z" />
+    </svg>
+    <div class="button-with-counter__counter"></div>
+</a>
+
+<a class="button-with-counter button-with-counter_notification    trackable ya-metrika-trackable" data-category="&#x428;&#x430;&#x43F;&#x43A;&#x430;" data-action="&#x418;&#x43D;&#x432;&#x430;&#x439;&#x442;&#x44B;" data-target="invites">
+    <svg xmlns="http://www.w3.org/2000/svg" width="23" height="22" viewBox="0 0 23 22">
+        <path fill="#AAB6C2" fill-rule="evenodd" d="M4.429 7.861v.968a7.545 7.545 0 0 1-1.44 4.428l-.907 1.249.097.044c.137.06.293.124.472.189l.185.065c1.364.467 3.228.752 5.664.752 2.436 0 4.3-.285 5.664-.752.257-.088.475-.174.657-.254l.096-.044-.905-1.249a7.545 7.545 0 0 1-1.434-4.11l-.007-.318v-.968c0-2.207-1.82-4-4.071-4-2.251 0-4.071 1.793-4.071 4zM8.5 1.75c-.42 0-.765.29-.841.673a5.685 5.685 0 0 1 1.683 0A.849.849 0 0 0 8.5 1.75zm0 18.076c-1.751 0-3.2-1.3-3.404-2.98-1.052-.144-1.964-.355-2.746-.623-.962-.33-1.559-.678-1.853-.945a.75.75 0 0 1-.104-.996l1.381-1.905A6.045 6.045 0 0 0 2.93 8.829v-.968c0-2.207 1.316-4.109 3.214-4.985v-.293A2.343 2.343 0 0 1 8.5.25c1.247 0 2.269.956 2.352 2.173l.005.16v.293c1.898.876 3.214 2.778 3.214 4.985v.968c0 1.272.404 2.512 1.155 3.548l1.381 1.905a.75.75 0 0 1-.104.996c-.294.267-.89.616-1.853.945-.782.268-1.694.48-2.746.622-.204 1.681-1.653 2.981-3.404 2.981zm0-1.5c.866 0 1.598-.56 1.842-1.327-.58.037-1.193.057-1.842.057-.65 0-1.263-.02-1.842-.057A1.926 1.926 0 0 0 8.5 18.326z" />
+    </svg>
+    <div class="button-with-counter__counter"></div>
+</a>    <div class="ntf-notifications-container">
+          <div id="ntf-notifications-root"></div>
+          <div class="ntf-notifications-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 18 18"><g><g><path fill="#aab6c2" d="M11.71 4.522c-.5-1.284-1.198-2.212-1.96-2.588v3.014a8.172 8.172 0 0 0 1.96-.426zm-5.424.009a8.186 8.186 0 0 0 1.964.42V1.934c-.764.377-1.463 1.308-1.964 2.597zm.01 8.963c.5 1.276 1.195 2.198 1.954 2.572v-2.989a8.19 8.19 0 0 0-1.954.417zm5.405.009a8.176 8.176 0 0 0-1.951-.423v2.986c.757-.374 1.451-1.292 1.95-2.563zM5.848 5.968a13.217 13.217 0 0 0-.314 2.282H8.25V6.456a9.663 9.663 0 0 1-2.402-.488zm6.302-.01a9.65 9.65 0 0 1-2.4.496V8.25h2.716a13.212 13.212 0 0 0-.316-2.291zm-.007 6.11c.168-.715.28-1.494.323-2.318H9.75v1.824a9.652 9.652 0 0 1 2.393.494zm-6.289-.01a9.665 9.665 0 0 1 2.396-.486V9.75H5.534c.043.82.154 1.597.32 2.309zM17.75 9A8.75 8.75 0 1 1 .25 9a8.75 8.75 0 1 1 17.5 0zm-5.298-6.377c.225.376.429.79.609 1.234.208-.14.394-.291.553-.45a7.263 7.263 0 0 0-1.162-.784zm0 12.754c.408-.221.791-.48 1.147-.772a3.867 3.867 0 0 0-.547-.44 8.967 8.967 0 0 1-.6 1.212zm1.082-2.677c.423.247.801.529 1.119.84a7.216 7.216 0 0 0 1.559-3.79h-2.244a14.54 14.54 0 0 1-.434 2.95zm1.132-8.224c-.32.314-.7.599-1.126.849.232.905.38 1.891.428 2.925h2.244a7.215 7.215 0 0 0-1.546-3.774zM5.548 2.623c-.42.228-.814.495-1.178.797.163.16.352.31.563.452.182-.45.387-.868.615-1.249zm0 12.754a8.982 8.982 0 0 1-.606-1.226 3.914 3.914 0 0 0-.556.442c.36.297.749.56 1.162.784zM4.456 5.339a5.74 5.74 0 0 1-1.134-.848A7.215 7.215 0 0 0 1.788 8.25h2.244c.048-1.028.194-2.01.424-2.911zm-1.121 8.185a5.76 5.76 0 0 1 1.127-.838 14.548 14.548 0 0 1-.43-2.936H1.788a7.215 7.215 0 0 0 1.547 3.774z" /></g></g></svg>
+          </div>
+    </div>
+  
+</div>
+
+<script>
+    require(['layoutcontrols/userCounter'], function (userCounter) {
+        var messageModel = {
+            counterSelector: '.button-with-counter_message',
+            counterContentClass: 'button-with-counter__counter',
+            link: 'https://kundelik.kz/soc/messenger/',
+            spamLink: 'https://kundelik.kz/soc/messenger/?view=spam'
+        };
+
+       var notificationModel = {
+            counterSelector: '.button-with-counter_notification',
+            counterContentClass: 'button-with-counter__counter',
+            link: 'https://kundelik.kz/invites'
+        };
+        
+        var kundalikPayModel = {
+            counterSelector: '.button-with-counter_kundalikpay',
+            counterContentClass: 'button-with-counter__counter',
+            link: 'https://kundelik.kz/kundalikpay'
+        };
+        
+        userCounter(messageModel);
+        userCounter(notificationModel);
+        userCounter(kundalikPayModel);
+    });
+</script>
+<script>
+  window.notificationsAppSettings = {
+     apiUrl: "https://notifications.kundelik.kz/api",
+     rootElementId: "ntf-notifications-root"
+  }
+</script>
+<script defer src="https://static.kundelik.kz/client/notifications.js?v=4d1a8900"></script>
+<script defer src="https://static.kundelik.kz/client/chat_notifications.js?v=5a2bd10f"></script>
+<link rel="stylesheet" href="https://static.kundelik.kz/client/chat_notifications.css?v=029e6db5" media="all" type="text/css"></link>
+
+                </div>
+                <div class="page-header__panel-container_items page-header__panel-container_items_kz">
+                        <div class="page-header__panel-container page-header__panel-container_header-localization-select">
+                            
+<div class="header-localization-select header-localization-select_top-14 ">
+    <div class="header-localization-select__info">
+        <div class="header-localization-select__info_row header-localization-select__info_row-content">&#x420;&#x443;&#x441;</div>
+        <div class="header-localization-select__info_row header-localization-select__tumbler"></div>
+    </div>
+    
+    
+
+<div class="dropdown-container dropdown-container_font-weight-bold dropdown-container_left-position-0 dropdown-container_no-specific-last-child ">
+
+<a href="https://kundelik.kz/api/localization/change?newCulture=ru-RU&amp;currentUrl=https%3a%2f%2fschools.kundelik.kz%2fv2%2fchildren%2fmarks%3fchild%3d1000004360224%26index%3d6%26tab%3dresult%26homebasededucation%3dFalse" title="&#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;" class="link link_dropdown-container-link link_dropdown-container-link_selected link_ " >
+    &#x420;&#x443;&#x441;&#x441;&#x43A;&#x438;&#x439;
+    
+</a>
+<a href="https://kundelik.kz/api/localization/change?newCulture=kk-KZ&amp;currentUrl=https%3a%2f%2fschools.kundelik.kz%2fv2%2fchildren%2fmarks%3fchild%3d1000004360224%26index%3d6%26tab%3dresult%26homebasededucation%3dFalse" title="&#x49A;&#x430;&#x437;&#x430;&#x49B;" class="link link_dropdown-container-link link_ link_ " >
+    &#x49A;&#x430;&#x437;&#x430;&#x49B;
+    
+</a>
+<a href="https://kundelik.kz/api/localization/change?newCulture=en-US&amp;currentUrl=https%3a%2f%2fschools.kundelik.kz%2fv2%2fchildren%2fmarks%3fchild%3d1000004360224%26index%3d6%26tab%3dresult%26homebasededucation%3dFalse" title="English" class="link link_dropdown-container-link link_ link_ " >
+    English
+    
+</a></div><script>require(['DropdownContainer/DropdownContainer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22tumblerClass\x22\x3a\x22header-localization-select\x22,\x22activationClasses\x22\x3a\x5b\x22header-localization-select__info\x22,\x22dropdown-container\x22\x5d\x7d')); } });</script>
+</div>
+                        </div>
+                    <div class="page-header__panel-container page-header__panel-container_profile">
+                        
+
+
+
+<div class="user-profile-box" data-test-id="user-profile-info">
+    <div class="user-profile-box__info">
+        <div class="user-profile-box__info_row user-profile-box__avatar">
+            <img src="https://au1.kundelik.kz/get.aspx/48/b8133ae71d1c48e88e13249bf91f7163.s.jpg?d=20231130013827" />
+        </div>
+        <div class="user-profile-box__info_row user-profile-box__info_row-content">
+            <p class="user-profile-box__info_row-content user-profile-box__initials">&#x414;&#x430;&#x432;&#x44B;&#x434;&#x43E;&#x432;&#x430; &#x410;.&#x410;.</p>
+            <p class="user-profile-box__info_row-content user-profile-box__category">&#x420;&#x43E;&#x434;&#x438;&#x442;&#x435;&#x43B;&#x44C;</p>
+        </div>
+        <div class="user-profile-box__info_row user-profile-box__tumbler"></div>
+    </div>
+
+    
+
+<div class="dropdown-container">
+
+<a href="https://kundelik.kz/v2/user/settings?user=1000002636291" title="&#x41D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x43A;&#x438;" class="link link_dropdown-container-link link_ link_ " >
+    &#x41D;&#x430;&#x441;&#x442;&#x440;&#x43E;&#x439;&#x43A;&#x438;
+    
+</a>
+<a href="https://login.kundelik.kz/logout" title="&#x412;&#x44B;&#x439;&#x442;&#x438; &#x438;&#x437; Kundelik.kz" class="link link_dropdown-container-link link_ link_box-sizing-content-box " Id=profile_logout>
+    &#x412;&#x44B;&#x439;&#x442;&#x438; &#x438;&#x437; Kundelik.kz
+    
+</a></div><script>require(['DropdownContainer/DropdownContainer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22tumblerClass\x22\x3a\x22user-profile-box\x22,\x22activationClasses\x22\x3a\x5b\x22user-profile-box__info\x22,\x22dropdown-container\x22\x5d\x7d')); } });</script>
+    <form name="profileLogout" action="https://login.kundelik.kz/logout" method="post">
+    </form>
+</div>
+<script>
+    $('#profile_logout').click(function () {
+        document.profileLogout.submit();
+        return false;
+    });
+</script>
+
+
+
+
+
+
+                    </div>
+                    <div class="page-header__panel-container page-header__panel-container_end">
+                        
+
+<div class="header-links">
+    <a class="header-links__link" href="https://kundelik.zendesk.com" target="_blank">&#x41F;&#x43E;&#x43C;&#x43E;&#x449;&#x44C;</a>
+    <form name="logout" action="https://login.kundelik.kz/logout" method="post">
+        <a class="header-links__link" onClick="document.logout.submit();" href="#">&#x412;&#x44B;&#x445;&#x43E;&#x434;</a>
+    </form>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clear">
+            <ul class="header-menu"><li class="header-menu__item header-menu__item_active"><a class="header-menu__link" href="https://kundelik.kz/userfeed" target="_self" title="" data-test-id="Дети">Дети </a><ul class="header-submenu header-submenu_active"><li class="header-submenu__item"><a class="header-submenu__link" href="https://schools.kundelik.kz/v2/children/"  title="" data-test-id="Обзор">Обзор </a></li><li class="header-submenu__item header-submenu__item_active"><a class="header-submenu__link" href="https://schools.kundelik.kz/v2/children/marks" target="_self" title="" data-test-id="Дневник">Дневник </a></li><li class="header-submenu__item"><a class="header-submenu__link" href="https://schools.kundelik.kz/v2/children/homework"  title="Домашние задания" data-test-id="Домашние задания">ДЗ </a></li><li class="header-submenu__item"><a class="header-submenu__link" href="https://schools.kundelik.kz/v2/children/timetable"  title="" data-test-id="Расписание">Расписание </a></li><ul class="header-submenu__item header-submenu__more-item"><div class="header-submenu__more-item-name">Ещё</div></ul></ul></li><li class="header-menu__item"><a class="header-menu__link" href="https://kundelik.kz/v2/user/user"  title="" data-test-id="Профиль">Профиль </a><ul class="header-submenu"><li class="header-submenu__item"><a class="header-submenu__link" href="https://kundelik.kz/soc/messenger/"  title="" data-test-id="Сообщения">Сообщения </a></li><li class="header-submenu__item"><a class="header-submenu__link" href="https://kundelik.kz/v2/user/user?view=files"  title="" data-test-id="Файлы">Файлы </a></li><ul class="header-submenu__item header-submenu__more-item"><div class="header-submenu__more-item-name">Ещё</div></ul></ul></li><li class="header-menu__item"><a class="header-menu__link" href="https://kundelik.kz/v2/soc/networks"  title="" data-test-id="Общение">Общение </a><ul class="header-submenu"><li class="header-submenu__item"><a class="header-submenu__link" href="https://kundelik.kz/v2/soc/networks"  title="" data-test-id="Сети">Сети </a></li><ul class="header-submenu__item header-submenu__more-item"><div class="header-submenu__more-item-name">Ещё</div></ul></ul></li><li class="header-menu__item"><a class="header-menu__link" href="https://kundelik.kz:443/v2/soc/apps/?utm_source=kundelik&utm_medium=mainnav&utm_campaign=button"  title="" data-test-id="Приложения">Приложения </a></li><li class="header-menu__item"><a class="header-menu__link" href="https://kundelik.kz/hobbies"  title="" data-test-id="hobbies">Кружки<p style="display: inline;font-size: 10px;color: #fff200;border: #fff200 solid 1px;padding: 2px;border-radius: 5px;margin-left: 2px;position: relative;top: -2px;">new</p> </a></li><li class="header-menu__item header-menu__item_ext"><div class="header-menu__banner-container"><div class="33595f8b0fd445f982e497d00268b1c4 asyncMenuButtonBanner"><div style="display:none;">&lt;!--В &lt;head&gt; сайта один раз добавьте код загрузчика--&gt;
+&lt;script&gt;window.yaContextCb = window.yaContextCb || []&lt;/script&gt;
+&lt;script src=&quot;https://yandex.ru/ads/system/context.js&quot; async&gt;&lt;/script&gt;
+
+&lt;!--AdFox START--&gt;
+&lt;!--tds.media2016--&gt;
+&lt;!--Площадка: [Site] | Kundelik 2.0 / [Site] | Kundelik 2.0 / [Kundelik 2.0] [150x40] - Кнопка--&gt;
+&lt;!--Категория: &lt;не задана&gt;--&gt;
+&lt;!--Тип баннера: [Kundelik 2.0] [150x40] - Кнопка--&gt;
+&lt;div id=&quot;adfox_163159711559957558&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    window.yaContextCb.push(()=&gt;{
+        Ya.adfoxCode.create({
+            ownerId: 264109,
+        containerId: &#39;adfox_163159711559957558&#39;,
+            params: {
+                p1: &#39;cgsmw&#39;,
+            p2: &#39;gnim&#39;,
+            puid1: &#39;41&#39;,
+            puid2: &#39;F&#39;,
+            puid3: &#39;PARENT&#39;,
+            puid4: &#39;154&#39;,
+            puid5: &#39;224:132&#39;,
+            puid6: &#39;16:10&#39;,
+            puid7: &#39;02:2565&#39;,
+            puid8: &#39;F:F&#39;,
+            puid9: &#39;Gimnasium&#39;,
+            puid10: &#39;Gimnasium:AdditionalEducation:Gimnasium:AdditionalEducation&#39;,
+            puid11: &#39;N&#39;,
+            puid12: &#39;P:P&#39;,
+            puid13: &#39;N&#39;,
+            puid14: &#39;N:N&#39;,
+            puid15: &#39;N&#39;,
+            puid16: &#39;N&#39;,
+            puid17: &#39;&#39;,
+            puid18: &#39;&#39;,
+            puid19: &#39;51G&#39;,
+            puid20: &#39;N&#39;,
+            puid21: &#39;4K:10K:255K&#39;,
+            puid22: &#39;ru-RU&#39;,
+            puid23: &#39;1000002636291&#39;,
+            puid24: &#39;elite&#39;,
+            puid25: &#39;N&#39;,
+            puid26: &#39;&#39;
+            }
+        })
+    })
+&lt;/script&gt;</div></div><script>$(document).ready(function () {let container=$(".33595f8b0fd445f982e497d00268b1c4");if(container.css("display")!=="none"){container.html($(".33595f8b0fd445f982e497d00268b1c4 > div").text());} });</script></div></li></ul><script type='text/javascript'>require(['analytics/menuYaMetrika']);</script>
+        </div>
+    </div>
+    <script type="text/javascript">
+        require(['layoutcontrols/menu', 'analytics/urlTracker', 'ab/yandexMetrikaTracker'], function (menu, urlTracker, yandexMetrikaTracker) {
+
+             var model = {
+                 newMessages: "Новых сообщений",
+                 noMessages: "Нет новых сообщений",
+                 newFriendRequests: "Новых друзей",
+                 noFriendRequests: "Нет новых друзей",
+                 newGroups: "Новых приглашений",
+                 noGroups: "Нет новых приглашений",
+                 Account: "Личный счёт",
+                 newEvents: "Новых событий",
+                 noEvents: "Нет новых событий",
+             };
+
+             menu(model);
+
+             var urlTrackerModel = {
+                 elementSelector: 'li#AppCenter>a',
+                 urlPrefix: '/virtual/center',
+                 trackingConditions: 'click'
+             };
+             urlTracker(urlTrackerModel);
+
+             yandexMetrikaTracker({ action: 'reachGoal' });
+        });
+
+        require(['common/adblockDummyInsert'], function (adblockDummyInsert) {
+            adblockDummyInsert();
+        });
+    </script>
+
+    <div class="wrapper" id="contentWrapper">
+
+
+        <div id="content">
+            
+            
+
+<div class="subheader">
+    
+
+<ul class='old-site-crumbs'>
+        <li class='old-site-crumbs__item'>
+            <a href='https://schools.kundelik.kz/v2/school?school=1000001000774' class='link_blue-with-orange-hover' title="&#x413;&#x43B;&#x430;&#x432;&#x43D;&#x430;&#x44F; &#x441;&#x442;&#x440;&#x430;&#x43D;&#x438;&#x446;&#x430; &#x448;&#x43A;&#x43E;&#x43B;&#x44B;">&#x413;&#x438;&#x43C;&#x43D;&#x430;&#x437;&#x438;&#x44F; &#x2116;132</a>
+        </li>
+</ul>
+    <div class="exception">
+        <h2>Дневник: Упаева Карианна</h2>
+        <div class="choose"><form action="https://schools.kundelik.kz/v2/children/marks?index=6&tab=result&homebasededucation=False" method="post" class="form" autocomplete="off"><input name="__RequestVerificationToken" type="hidden" value="CfDJ8D5eWUGcE4tBpXYsYtmMA-0yzDAaGpqw9KS5Rgyk1XtdGiO2j63KjuZFBw6d1jymhAkho6sQTgb2I88QXILM7mZjJXtCD4TOWbYYdUGheGZX9JMqTpbc1RHfVjVdb7d6j1JQrHH6EpOewCQDUB3YfpQbaa-y5DZHMJfH_KN7WhB8_aj4MTr3qWdiqfUVgMI5rQ" /><label for="child" class="b">Ребенок</label><select id="child" name="child"><option value="1000004360224_1000001000774">Карианна Упаева (Гимназия №132)</option><option value="1000004360224_1000009846887">Карианна Упаева (Дополнительное образование.)</option><option value="1000010013017_1000001000774" selected="selected">Аделина Упаева (Гимназия №132)</option><option value="1000010013017_1000009846887">Аделина Упаева (Дополнительное образование.)</option></select></form><div class="clear"></div></div>
+				<script type="text/javascript">
+				$(function() 
+				{
+					$("#child").bind('change', function()
+					{
+						$(this).parent().submit();
+					});
+				});
+				</script>
+    </div>
+    
+</div>
+
+
+    
+<script type="text/javascript">
+    $(function () {
+        window.setTimeout(function () {
+            var date = new Date().getTime();
+            var expireDate = 1716382194671
+
+            if (date > expireDate) {
+                return
+            }
+            $.post("https://schools.kundelik.kz/v2/children/" + "marks/view",
+            {
+                xss: "06a2cf6e370e3e2cee67a4e9c1092d78bdab299621eb5a19ee5b611f83701e0e",
+                parent: "1000004530297",
+                child: "1000004360224"
+            });
+        }, 5000);
+    });
+</script>
+
+<div class="col1 first">
+    <div ID="PlaceHolderClasses">
+            <div class="col13 first">
+                
+    <ul class=play>
+                <li class="pB"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&amp;index=5" title="9а"><span>Предыдущий класс</span></a></li>
+                <li class="pF">
+                    <div title=""></div></li>
+    </ul>
+
+                <h3>10 «А» (2023/2024)</h3>
+                <ul class="filter"><li class=" active first link"><a  href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224" innerhtml="Текущий класс">Текущий класс</a></li></ul>
+                <ul class="filter"></ul>
+            </div>
+    </div>
+</div>
+
+
+
+
+<div class="old-tabs">
+    <ul class="old-tabs__list">
+            <li class="old-tabs__tab ">
+                <div class="tc1"></div><div class="tc2"></div>
+                <a id="TabWeek" data-test-id="" href ="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&amp;index=6&amp;tab=week&amp;homebasededucation=False" class="old-tabs__link" style="">&#x414;&#x43D;&#x435;&#x432;&#x43D;&#x438;&#x43A;</a>
+            </li>
+            <li class="old-tabs__tab ">
+                <div class="tc1"></div><div class="tc2"></div>
+                <a id="TabSubject" data-test-id="" href ="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&amp;index=6&amp;tab=subject&amp;homebasededucation=False" class="old-tabs__link" style="">&#x41F;&#x43E; &#x43F;&#x440;&#x435;&#x434;&#x43C;&#x435;&#x442;&#x430;&#x43C;</a>
+            </li>
+            <li class="old-tabs__tab ">
+                <div class="tc1"></div><div class="tc2"></div>
+                <a id="TabPeriod" data-test-id="" href ="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&amp;index=6&amp;tab=period&amp;homebasededucation=False" class="old-tabs__link" style="">&#x41F;&#x43E; &#x447;&#x435;&#x442;&#x432;&#x435;&#x440;&#x442;&#x44F;&#x43C;</a>
+            </li>
+            <li class="old-tabs__tab  old-tabs__tab_active">
+                <div class="tc1"></div><div class="tc2"></div>
+                <a id="TabResultMarks" data-test-id="" href ="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&amp;index=6&amp;tab=result&amp;homebasededucation=False" class="old-tabs__link" style="">&#x418;&#x442;&#x43E;&#x433;&#x43E;&#x432;&#x44B;&#x435;</a>
+            </li>
+            <li class="old-tabs__tab ">
+                <div class="tabNoCornerLeft"></div><div class="tabNoCornerRight"></div>
+                <a id="TabRating" data-test-id="" href ="https://kundelik.analyticsapp.kz/home?utm_source=kundelik&amp;utm_medium=dnevnik&amp;utm_campaign=button&amp;userId=1000002636291" class="old-tabs__link  TabRating_orange-old" style="" target="_blank">&#x420;&#x435;&#x439;&#x442;&#x438;&#x43D;&#x433; &#x432; &#x43A;&#x43B;&#x430;&#x441;&#x441;&#x435;</a>
+            </li>
+            <li class="old-tabs__tab ">
+                <div class="tabNoCornerLeft"></div><div class="tabNoCornerRight"></div>
+                <a id="TabMektepMenu" data-test-id="" href ="https://mektepmenu.kz/users/sign_in" class="old-tabs__link  pink" style="" target="_blank">Mektep Menu</a>
+            </li>
+            <li class="old-tabs__tab ">
+                <div class="tabNoCornerLeft"></div><div class="tabNoCornerRight"></div>
+                <a id="TabIu" data-test-id="" href ="https://iutest.kz/" class="old-tabs__link  TabIu_orange" style="" target="_blank">iU test (&#x442;&#x440;&#x435;&#x43D;&#x430;&#x436;&#x435;&#x440; &#x415;&#x41D;&#x422;)</a>
+            </li>
+    </ul>
+</div>
+
+
+        <div ID="PlaceHolderResultMarksButtons">
+                    <ul class="iconbar">
+                        <li>
+                            <a href="https://schools.kundelik.kz/v2/children/print?&action=sfinalmarks&school=1000001000774&group=2123520075579439963&person=1000004360224" target="_blank" title="Версия для печати">
+                                <img src="https://static.kundelik.kz/images/icons/32/printer.png" width="32" height="32">
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://schools.kundelik.kz/v2/children/excel?&action=sfinalmarks&school=1000001000774&group=2123520075579439963&person=1000004360224" target="_blank" title="Экспорт в Excel">
+                                <img src="https://static.kundelik.kz/images/icons/32/xls.png" width="32" height="32">
+                            </a>
+                        </li>
+                    </ul>
+        </div>
+        <div class="actions">
+            <a href="javascript:void(0);" class="checkcolor" title="Черно-белый журнал">
+                <img src="https://static.kundelik.kz/images/icons/32/colorfill_gray.png" width="32" height="32" alt="">
+            </a>
+        </div>
+<table id="journal" class="grid gridLines vam marks">
+                       <tr>
+                            <th style="width:1%">№</th>
+                            <th style="width:18%">Предметы</th>
+                            <th style="width:9%"><b>1 чтв</b></th>
+                                         <th style="width:9%"><b>2 чтв<br>1 п/г</b></th>
+                                         <th style="width:9%"><b>3 чтв</b></th>
+                                         <th style="width:9%"><b>4 чтв<br>2 п/г</b></th>
+                            <th style="width:9%"><b>Год</b></th>
+                            <th style="width:9%"><b>Экзамен</b></th>
+                            <th style="width:9%"><b>Итог</b></th></tr>
+							<tr>
+								<td class="tac">1</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1989783852067988519&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Britain History</strong></a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">5</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">2</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1582194049837876602&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Le monde de la Franc</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">3</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1854195153327280607&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Path to exam success</strong></a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><span class="mG">5</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">4</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1715524008097779249&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Алг.и нач.анализа</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">5</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8894916204791&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Английский язык</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">5</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">6</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8933570910464&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Всемирная история</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mY" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">7</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8920686008573&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">География</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">8</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8924980975870&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Геометрия</strong></a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">9</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8955045746949&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Информатика</strong></a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">10</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8997995419919&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">История Казахстана</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mY" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">11</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1328753518669078084&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">каз.яз и лит-ра</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">12</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1989340435349381005&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Кл.час</strong></a></td><td class="tac"></td><td class="tac"></td><td class="tac"></td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">13</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=2128918553117748044&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Коммуникат.кузирет</strong></a></td><td class="tac">-</td><td class="tac"></td><td class="tac">-</td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">14</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1989786265839608873&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">НВТП</strong></a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">15</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=2128916912440240971&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Разв.эмоц.интел</strong></a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac">-</td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">16</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8976520583434&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Русс. лит-ра</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><span class="mG">5</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">17</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=8980815550731&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Русс.яз</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">5</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=3&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><span class="mG">4</span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">18</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=9002290387216&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Физика</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">19</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=1988548692488100559&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Физкультура.</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">ЗЧ</a></td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr>
+							<tr>
+								<td class="tac">20</td>
+								<td class="s2"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=subject&subject=9006585354513&group=2123520075579439963" title="Смотреть оценки по этому предмету"><strong class="u">Химия</strong></a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=0&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=1&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"><a href="https://schools.kundelik.kz/v2/children/marks?child=1000004360224&index=6&tab=period&period=2&homebasededucation=False" class="mG" title="Смотреть оценки за период">4</a></td><td class="tac"></td><td class="tac"><span></span></td><td class="tac"><span></span></td><td class="tac"><span></span></td></tr><tr><td class="inverse tac" colspan="2" style="text-align:left" nowrap="nowrap">Пропущено полных дней всего</td><td class="inverse tac">0</td><td class="inverse tac">5</td><td class="inverse tac">5</td><td class="inverse tac">1</td><td class="inverse tac">11</td><td style="border-width: 0px;">&nbsp;</td><td style="border-width: 0px;">&nbsp;</td></tr><tr><td class="inverse tac" colspan="2" style="text-align:left">В т.ч по болезни</td><td class="inverse tac">0</td><td class="inverse tac">6</td><td class="inverse tac">2</td><td class="inverse tac">0</td><td class="inverse tac">8</td><td style="border-width: 0px;">&nbsp;</td><td style="border-width: 0px;">&nbsp;</td></tr><tr><td class="inverse tac" colspan="2" style="text-align:left">Пропущено уроков всего</td><td class="inverse tac">0</td><td class="inverse tac">28</td><td class="inverse tac">23</td><td class="inverse tac">6</td><td class="inverse tac">57</td><td style="border-width: 0px;">&nbsp;</td><td style="border-width: 0px;">&nbsp;</td></tr><tr><td class="inverse tac" colspan="2" style="text-align:left">В т.ч по болезни</td><td class="inverse tac">0</td><td class="inverse tac">24</td><td class="inverse tac">6</td><td class="inverse tac">0</td><td class="inverse tac">30</td><td style="border-width: 0px;">&nbsp;</td><td style="border-width: 0px;">&nbsp;</td></tr><tr><td class="inverse tac" colspan="2" style="text-align:left">Количество опозданий</td><td class="inverse tac">0</td><td class="inverse tac">0</td><td class="inverse tac">1</td><td class="inverse tac">0</td><td class="inverse tac">1</td><td style="border-width: 0px;">&nbsp;</td><td style="border-width: 0px;">&nbsp;</td></tr></table><div class="first l">
+    <i id="last_user_viewer">Последний просмотр страницы: <a href="https://kundelik.kz/v2/user/user?user=1000002636291">Давыдова А.А.</a> (Мать), Ср, 22 мая 24 в 16:49</i>
+</div>
+
+
+<script type="text/javascript">
+
+        $("a.markerRVD").live("click", function (event) {
+
+            event.preventDefault();
+
+            $(this).toggleClass("opennode");
+
+            var li = $(this).parentsUntil("li:first").parent();
+
+            var liparent = $("li:first", li);
+
+            var lichild = liparent.nextAll("li");
+
+            lichild = lichild.add(liparent);
+
+            if (lichild.is(":visible")) {
+
+                if (!lichild.hasClass("noderoot")) {
+
+                    $.each($("a", lichild), function () {
+
+                        if ($(this).hasClass("opennode")) {
+                            $(this).removeClass("opennode");
+                        }
+                    });
+
+                    lichild.hide();
+                    lichild.nextAll("li").hide();
+                }
+
+                $("li", lichild).hide();
+            }
+            else {
+                lichild.show();
+                lichild.nextAll("li").show();
+            }
+        });
+        
+        $(".checkcolor").click(function() {
+            img = $(this).find("img");
+            imgpath = img.attr("src");
+
+            $("table").toggleClass("marks");
+        
+            if(imgpath.indexOf("_gray") != -1) {
+                //color
+                $(this).attr("title", "Журнал в цвете");
+                img.attr("src", imgpath.replace("_gray", ""));	
+                $("table").addClass("black");            
+            } else {
+                $(this).attr("title", "Черно-белый журнал");
+                img.attr("src", imgpath.replace(".png", "_gray.png"));
+                $("table").removeClass("black");	            
+            }
+        });
+
+
+
+            require(['analyticsAppPopup'], function (analyticsAppPopup) {
+                var model = {
+                    isCriteriaEnabled: 'True',
+                    isCriterialJournalType: 'True',
+                    rootElementSelector: '.wrapper',
+                    markClass: 'analytics-app-popup-mark',
+                    criteriaFinalMarkClass: 'analytics-app-popup-criteria-final-mark',
+                    criteriaMarkClass: 'analytics-app-popup-criteria-mark',
+                    avgMarkClass: 'analytics-app-popup-avgmark',
+                    userId: '1000002636291',
+                    personId: '1000004360224',
+                    classId: '2123520075579439963',
+                    periodId: '0',
+                    url: 'https://kundelik.analyticsapp.kz/iframe',
+                    source: 'dnevnik'
+                };
+                analyticsAppPopup.init(model);
+            });
+        
+
+    require(['schoolDiaryMetrika'], function (schoolDiaryMetrika) {
+        document.addEventListener('readystatechange', function () {
+            if (document.readyState === 'complete') {
+                schoolDiaryMetrika.send('enter');
+            }
+        });
+    });
+
+    var analyticsAppButton = document.getElementById('TabRating');
+    if (analyticsAppButton) {
+        require(['schoolDiaryMetrika'], function (schoolDiaryMetrika) {
+            schoolDiaryMetrika.send('viewRating');
+            analyticsAppButton.addEventListener('click', function () {
+                schoolDiaryMetrika.send('clickRating');
+            });                                                 
+        });   
+    }
+
+</script>
+<dnevnik:chatWidget></dnevnik:chatWidget>
+
+            <div class="clear"></div>
+        </div>
+        
+
+
+        
+
+
+        
+
+
+        
+
+        
+
+
+    </div>
+
+    <div class="page-footer page-footer_auth" id="footer">
+            <div class="page-footer__banner">
+                <div class="bb90548fac6e479eba198df7c8e99c7d asyncBottom728x90Banner"><div style="display:none;">&lt;!--В &lt;head&gt; сайта один раз добавьте код загрузчика--&gt;
+&lt;script&gt;window.yaContextCb = window.yaContextCb || []&lt;/script&gt;
+&lt;script src=&quot;https://yandex.ru/ads/system/context.js&quot; async&gt;&lt;/script&gt;
+
+&lt;!--AdFox START--&gt;
+&lt;!--tds.media2016--&gt;
+&lt;!--Площадка: [Site] | Kundelik 2.0 / [Site] | Kundelik 2.0 / [Kundelik 2.0] [Взрослые] [970x250] - Footer--&gt;
+&lt;!--Категория: &lt;не задана&gt;--&gt;
+&lt;!--Тип баннера: [Kundelik 2.0] [970x250] - Footer--&gt;
+&lt;div id=&quot;adfox_163159736241957693&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    window.yaContextCb.push(()=&gt;{
+        Ya.adfoxCode.create({
+            ownerId: 264109,
+        containerId: &#39;adfox_163159736241957693&#39;,
+            params: {
+                p1: &#39;cfgpt&#39;,
+            p2: &#39;glch&#39;,
+            puid1: &#39;41&#39;,
+            puid2: &#39;F&#39;,
+            puid3: &#39;PARENT&#39;,
+            puid4: &#39;154&#39;,
+            puid5: &#39;224:132&#39;,
+            puid6: &#39;16:10&#39;,
+            puid7: &#39;02:2565&#39;,
+            puid8: &#39;F:F&#39;,
+            puid9: &#39;Gimnasium&#39;,
+            puid10: &#39;Gimnasium:AdditionalEducation:Gimnasium:AdditionalEducation&#39;,
+            puid11: &#39;N&#39;,
+            puid12: &#39;P:P&#39;,
+            puid13: &#39;N&#39;,
+            puid14: &#39;N:N&#39;,
+            puid15: &#39;N&#39;,
+            puid16: &#39;N&#39;,
+            puid17: &#39;&#39;,
+            puid18: &#39;&#39;,
+            puid19: &#39;51G&#39;,
+            puid20: &#39;N&#39;,
+            puid21: &#39;4K:10K:255K&#39;,
+            puid22: &#39;ru-RU&#39;,
+            puid23: &#39;1000002636291&#39;,
+            puid24: &#39;elite&#39;,
+            puid25: &#39;N&#39;,
+            puid26: &#39;&#39;
+            }
+        })
+    })
+&lt;/script&gt;</div></div><script>$(document).ready(function () {let container=$(".bb90548fac6e479eba198df7c8e99c7d");if(container.css("display")!=="none"){container.html($(".bb90548fac6e479eba198df7c8e99c7d > div").text());} });</script>
+                
+            </div>
+        <div class="page-footer__content">
+            <div class="page-footer__menu-layout page-footer__menu-layout_sized">
+                    <ul class="page-footer__menu">
+                        <li class="page-footer__menu-item">
+                            <a href="https://kundelik.kz/about" title="&#x41F;&#x43E;&#x434;&#x440;&#x43E;&#x431;&#x43D;&#x435;&#x435; &#x43E; Kundelik.kz" class="page-footer__menu-link">&#x41E; &#x43F;&#x440;&#x43E;&#x435;&#x43A;&#x442;&#x435;</a>
+                        </li>
+                        <li class="page-footer__menu-item">
+                            <a href="https://kundelik.kz/news" title="&#x41F;&#x440;&#x435;&#x441;&#x441;-&#x446;&#x435;&#x43D;&#x442;&#x440;" class="page-footer__menu-link">&#x41D;&#x43E;&#x432;&#x43E;&#x441;&#x442;&#x438;</a>
+                        </li>
+                        <li class="page-footer__menu-item">
+                            <a href="https://kundelik.zendesk.com/" target="_blank" title="&#x421;&#x43B;&#x443;&#x436;&#x431;&#x430; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x438;" class="page-footer__menu-link page-footer__menu-link_support">&#x421;&#x43B;&#x443;&#x436;&#x431;&#x430; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x438;</a>
+                        </li>
+                        <li class="page-footer__menu-item">
+                            <a href="https://kundelik.kz/contacts" title="&#x421;&#x43B;&#x443;&#x436;&#x431;&#x430; &#x43F;&#x43E;&#x434;&#x434;&#x435;&#x440;&#x436;&#x43A;&#x438;" class="page-footer__menu-link">&#x41A;&#x43E;&#x43D;&#x442;&#x430;&#x43A;&#x442;&#x44B;</a>
+                        </li>
+                    </ul>
+                        <ul class="page-footer__social">
+                                <li class="page-footer__social-item">
+                                    <a href="https://www.facebook.com/kundelik/" title="Kundelik.kz &#x432; Facebook" class="page-footer__social-link page-footer__social-link_facebook" target="_blank"></a>
+                                </li>
+                                <li class="page-footer__social-item">
+                                    <a href="https://www.instagram.com/kundelikkz/" title="Kundelik.kz &#x432; Instagram" class="page-footer__social-link page-footer__social-link_instagram" target="_blank"></a>
+                                </li>
+                                <li class="page-footer__social-item">
+                                    <a href="https://www.youtube.com/KundelikKz" title="Kundelik.kz &#x43D;&#x430; YouTube" class="page-footer__social-link page-footer__social-link_youtube" target="_blank"></a>
+                                </li>
+                        </ul>
+                <div class="page-footer__statistics">
+                </div>
+
+            </div>
+
+                <div class="page-footer__mobile-app-links">
+                    <div class="page-footer__mobile-app-links_header">
+                        &#x41C;&#x43E;&#x431;&#x438;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x43F;&#x440;&#x438;&#x43B;&#x43E;&#x436;&#x435;&#x43D;&#x438;&#x435;
+                    </div>
+                    <div>
+                        <a target="_blank" href="https://apps.apple.com/ru/app/id1350749651" class="page-footer__mobile-app-links__badge page-footer__mobile-app-links__badge-appStore">
+                            <img class="page-footer__mobile-app-links__badge_img" src="https://static.kundelik.kz/images/storebadges/appstore/AppStore_ru-RU.svg"/>
+                        </a>
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=kz.kundelik.mobile" class="page-footer__mobile-app-links__badge page-footer__mobile-app-links__badge-googlePlay">
+                            <img class="page-footer__mobile-app-links__badge_img" src="https://static.kundelik.kz/images/storebadges/googleplay/GooglePlay_ru-RU.svg"/>
+                        </a>
+                    </div>
+                </div>
+                <script type="text/javascript">
+                    require(['storeButtonsMetrikaHelper'],
+                        function () {
+                        });
+                </script>
+
+            <div class="page-footer__copyright-layout">
+                <a href="https://kundelik.kz/terms/" class="page-footer__copyright-layout-agreement">&#x41F;&#x43E;&#x43B;&#x44C;&#x437;&#x43E;&#x432;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x441;&#x43A;&#x43E;&#x435; &#x441;&#x43E;&#x433;&#x43B;&#x430;&#x448;&#x435;&#x43D;&#x438;&#x435;</a>
+                <div class="page-footer__copyright-layout-details">
+                    <p class="page-footer__copyright-layout__terms">&#xA9; 2024 &#x422;&#x41E;&#x41E; &#xAB;K&#x4AF;&#x43D;&#x434;&#x435;&#x43B;&#x456;&#x43A; (Kundelik)&#xBB;</p>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            require(['blocks/footerCopyright/footerCopyright'],
+                function () {
+                });
+        </script>
+    </div>
+<div class="clear"></div>    
+    
+    
+<script type="text/javascript">
+    require(['yandexMetrika/yandexMetrikaCounter']);
+    require(['analytics/commonYaMetrika']);
+</script>
+<noscript>
+    <div>
+            <img src="//mc.yandex.ru/watch/36220965" style="position: absolute; left: -9999px;" alt="" />
+    </div>
+</noscript>
+
+
+
+    
+
+</body>
+</html>
